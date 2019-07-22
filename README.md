@@ -30,10 +30,24 @@ fault-tolerant, Geo-Redundant and highly available file system.
 * [Aurora Files](https://afterlogic.org/aurora-files) - Aurora Files is an open-source file storage platform for small teams and personal users.
 
 ## Backups, replication, distribution
+Software that handles backup and high availability of information, independent from the storage itself.
 
 * [Zenko](https://www.zenko.io/) - Zenko is Scality’s Open Source Multi-Cloud Data Controller. Zenko lets you be in control of your data and leverage the efficiency of private and public clouds.
 
+* [UrBackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
+
+* [Amanda](http://amanda.zmanda.com/) -  Amanda is the most popular open source backup and recovery software in the world. Amanda protects more than a million servers and desktops running various versions of Linux, UNIX, BSD, Mac OS-X and Microsoft Windows operating systems worldwide. 
+
+* [Bareos](hhttps://www.bareos.org/en/) - Bareos is a 100% open source fork of the backup project from bacula.org. The fork is in development since late 2010, it has a lot of new features.
+
+* [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online. For Windows, macOS and Linux.
+
+* [ElkarBackup](https://www.elkarbackup.org/) - ElkarBackup is a free open-source backup solution based on RSync/RSnapshot.
+
+* [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance, enterprise-grade system for backing up Linux, Windows and macOS PCs and laptops to a server's disk. BackupPC is highly configurable and easy to install and maintain.
+
 ## S3 compatible file servers
+File servers that expose S3 compatible APIs
 
 * [MinIO](https://min.io/) - A high performance, distributed object storage server, designed for large-scale data infrastructure. It is an ideal S3-compatible replacement for Hadoop HDFS and scale out NAS for machine learning and other big data workloads.
 
