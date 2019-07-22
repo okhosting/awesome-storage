@@ -38,7 +38,7 @@ Software that handles backup and high availability of information, independent f
 
 * [Amanda](http://amanda.zmanda.com/) -  Amanda is the most popular open source backup and recovery software in the world. Amanda protects more than a million servers and desktops running various versions of Linux, UNIX, BSD, Mac OS-X and Microsoft Windows operating systems worldwide. 
 
-* [Bareos](hhttps://www.bareos.org/en/) - Bareos is a 100% open source fork of the backup project from bacula.org. The fork is in development since late 2010, it has a lot of new features.
+* [Bareos](https://www.bareos.org/en/) - Bareos is a 100% open source fork of the backup project from bacula.org. The fork is in development since late 2010, it has a lot of new features.
 
 * [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online. For Windows, macOS and Linux.
 
