@@ -1,5 +1,5 @@
 # Awesome Storage
-A curated list of storage related tools and resources. Backups, redundancy, sharing, distribution, encryption, etc.
+A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
 
 ## Distributed file systems
 Systems that expose a traditional file system interface with POSIX semantics.
