@@ -8,8 +8,6 @@ Systems that expose a traditional file system interface with POSIX semantics.
 
 * [LeoFS](http://leo-project.net/) - LeoFS is a highly available, distributed, eventually consistent object/blob store. If you are searching a storage system that is able to store huge amount and various kind of raw data in its native format, LeoFS is suitable for that.
 
-* [LeoFS](https://objectivefs.com/) - Scalable High Performance File Storage. The shared file system that scales automatically, with unlimited storage and high performance.
-
 * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a general purpose storage system and covers most storage needs in a single deployment. It is open-source, requires no special hardware or kernel modules, and can be mounted on Linux, Windows and OS X.
 
 * [OrangeFS](http://orangefs.com/) - OrangeFS is a software based scale-out parallel storage system.  It is ideal for large storage problems faced by HPC, BigData, Streaming Video, Genomics and Bioinformatics.
@@ -35,4 +33,14 @@ fault-tolerant, Geo-Redundant and highly available file system.
 
 * [Zenko](https://www.zenko.io/) - Zenko is Scality’s Open Source Multi-Cloud Data Controller. Zenko lets you be in control of your data and leverage the efficiency of private and public clouds.
 
+## S3 compatible file servers
 
+* [MinIO](https://min.io/) - A high performance, distributed object storage server, designed for large-scale data infrastructure. It is an ideal S3-compatible replacement for Hadoop HDFS and scale out NAS for machine learning and other big data workloads.
+
+* [Ceph file system](https://ceph.com/ceph-storage/file-system/) - Ceph’s file system runs on top of the same object storage system that provides object storage and block device interfaces. The Ceph metadata server cluster provides a service that maps the directories and file names of the file system to objects stored within RADOS clusters. The metadata server cluster can expand or contract, and it can rebalance the file system dynamically to distribute data evenly among cluster hosts. This ensures high performance and prevents heavy loads on specific hosts within the cluster.
+
+* [LeoFS](http://leo-project.net/) - LeoFS is a highly available, distributed, eventually consistent object/blob store. If you are searching a storage system that is able to store huge amount and various kind of raw data in its native format, LeoFS is suitable for that.
+
+* [RIAK S2](https://riak.com/products/riak-s2/) - Riak® S2 is a highly available, scalable, easy-to-operate object storage software solution that’s optimized for holding videos, images, and other files. It provides simple but powerful storage for large objects built for private, public, and hybrid clouds.
+
+* [OpenIO](https://www.openio.io/) - OpenIO SDS is an open source object storage solution ideal for Big Data, HPC and AI. With its distributed grid architecture and unique self-healing technology, OpenIO scales easily without mandatory data rebalancing, while delivering consistent high performance. OpenIO is S3 compatible and can be deployed on-premise or cloud-hosted, on any hardware that you choose.
