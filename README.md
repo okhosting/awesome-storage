@@ -10,3 +10,11 @@ Systems that expose a traditional file system interface with POSIX semantics.
 
 ## File sharing
 
+* [Linshare](https://www.linshare.org/) - Linshare is an Open Source secure file sharing application intended to cover your business security and file transfer needs. If confidentiality and traceability are paramount for your business file transfers, then LinShare is your solution and better yet it's free ! We also offer high quality support services provided by our IT teams to suit your network at best.
+
+* [Seafile](https://www.seafile.com) - Seafile is an open source file sync&share solution designed for high reliability, performance and productivity. Sync, share and collaborate across devices and teams. Build your team's knowledge base with Seafile's built-in Wiki feature.
+
+* [ProjectSend](https://www.projectsend.org/) - ProjectSend is a self-hosted application (you can install it easily on your own VPS or shared web hosting account) that lets you upload files and assign them to specific clients that you create yourself! Secure, private and easy. No more depending on external services or e-mail to send those files!
+
+
+* [Aurora Files](https://afterlogic.org/aurora-files) - Aurora Files is an open-source file storage platform for small teams and personal users.
