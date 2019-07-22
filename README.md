@@ -8,6 +8,19 @@ Systems that expose a traditional file system interface with POSIX semantics.
 
 * [LeoFS](http://leo-project.net/) - LeoFS is a highly available, distributed, eventually consistent object/blob store. If you are searching a storage system that is able to store huge amount and various kind of raw data in its native format, LeoFS is suitable for that.
 
+* [LeoFS](https://objectivefs.com/) - Scalable High Performance File Storage. The shared file system that scales automatically, with unlimited storage and high performance.
+
+* [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a general purpose storage system and covers most storage needs in a single deployment. It is open-source, requires no special hardware or kernel modules, and can be mounted on Linux, Windows and OS X.
+
+* [OrangeFS](http://orangefs.com/) - OrangeFS is a software based scale-out parallel storage system.  It is ideal for large storage problems faced by HPC, BigData, Streaming Video, Genomics and Bioinformatics.
+
+* [BeeGFS](https://www.beegfs.io/) - BeeGFS is the leading parallel cluster file system, developed with a strong focus on performance and designed for very easy installation and management. If I/O intensive workloads are your problem, BeeGFS is the solution.
+
+* [Gluster](https://www.gluster.org/) - Gluster is a scalable network filesystem. Using common off-the-shelf hardware, you can create large, distributed storage solutions for media streaming, data analysis, and other data- and bandwidth-intensive tasks. Gluster is free.
+
+* [LizardFS](https://lizardfs.com/) - LizardFS Software Defined Storage is a distributed, parallel, scalable,
+fault-tolerant, Geo-Redundant and highly available file system.
+
 ## File sharing
 
 * [Linshare](https://www.linshare.org/) - Linshare is an Open Source secure file sharing application intended to cover your business security and file transfer needs. If confidentiality and traceability are paramount for your business file transfers, then LinShare is your solution and better yet it's free ! We also offer high quality support services provided by our IT teams to suit your network at best.
