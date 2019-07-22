@@ -29,5 +29,10 @@ fault-tolerant, Geo-Redundant and highly available file system.
 
 * [ProjectSend](https://www.projectsend.org/) - ProjectSend is a self-hosted application (you can install it easily on your own VPS or shared web hosting account) that lets you upload files and assign them to specific clients that you create yourself! Secure, private and easy. No more depending on external services or e-mail to send those files!
 
-
 * [Aurora Files](https://afterlogic.org/aurora-files) - Aurora Files is an open-source file storage platform for small teams and personal users.
+
+## Backups, replication, distribution
+
+* [Zenko](https://www.zenko.io/) - Zenko is Scality’s Open Source Multi-Cloud Data Controller. Zenko lets you be in control of your data and leverage the efficiency of private and public clouds.
+
+
