@@ -32,6 +32,8 @@ fault-tolerant, Geo-Redundant and highly available file system.
 ## Backups, replication, distribution
 Software that handles backup and high availability of information, independent from the storage itself.
 
+* [Bacula](https://www.bacula.org/) - Bacula is a set of Open Source, computer programs that permit you (or the system administrator) to manage backup, recovery, and verification of computer data across a network of computers of different kinds.
+
 * [Zenko](https://www.zenko.io/) - Zenko is Scality’s Open Source Multi-Cloud Data Controller. Zenko lets you be in control of your data and leverage the efficiency of private and public clouds.
 
 * [UrBackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
