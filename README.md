@@ -29,6 +29,10 @@ fault-tolerant, Geo-Redundant and highly available file system.
 
 * [Aurora Files](https://afterlogic.org/aurora-files) - Aurora Files is an open-source file storage platform for small teams and personal users.
 
+* [ownCloud](https://owncloud.org/) - With over 50 million users worldwide, ownCloud is the market-leading open source software for cloud-based collaboration platforms. As an alternative to Dropbox, OneDrive and Google Drive, ownCloud offers real data security and privacy for you and your data.
+
+* [Nextcloud](https://nextcloud.com/) - Nextcloud Files enables enterprises to take back control over their data, ensuring compliance, security and instant availability wherever their employees are.
+
 ## Backups, replication, distribution
 Software that handles backup and high availability of information, independent from the storage itself.
 
