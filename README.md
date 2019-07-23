@@ -40,13 +40,11 @@ fault-tolerant, Geo-Redundant and highly available file system.
 ## Backups, replication, distribution
 Software that handles backup and high availability of information, independent from the storage itself.
 
+* [Amanda](http://amanda.zmanda.com/) -  Amanda is the most popular open source backup and recovery software in the world. Amanda protects more than a million servers and desktops running various versions of Linux, UNIX, BSD, Mac OS-X and Microsoft Windows operating systems worldwide.
+
+* [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance, enterprise-grade system for backing up Linux, Windows and macOS PCs and laptops to a server's disk. BackupPC is highly configurable and easy to install and maintain.
+
 * [Bacula](https://www.bacula.org/) - Bacula is a set of Open Source, computer programs that permit you (or the system administrator) to manage backup, recovery, and verification of computer data across a network of computers of different kinds.
-
-* [Zenko](https://www.zenko.io/) - Zenko is Scality’s Open Source Multi-Cloud Data Controller. Zenko lets you be in control of your data and leverage the efficiency of private and public clouds.
-
-* [UrBackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
-
-* [Amanda](http://amanda.zmanda.com/) -  Amanda is the most popular open source backup and recovery software in the world. Amanda protects more than a million servers and desktops running various versions of Linux, UNIX, BSD, Mac OS-X and Microsoft Windows operating systems worldwide. 
 
 * [Bareos](https://www.bareos.org/en/) - Bareos is a 100% open source fork of the backup project from bacula.org. The fork is in development since late 2010, it has a lot of new features.
 
@@ -54,7 +52,12 @@ Software that handles backup and high availability of information, independent f
 
 * [ElkarBackup](https://www.elkarbackup.org/) - ElkarBackup is a free open-source backup solution based on RSync/RSnapshot.
 
-* [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance, enterprise-grade system for backing up Linux, Windows and macOS PCs and laptops to a server's disk. BackupPC is highly configurable and easy to install and maintain.
+* [Restic](https://restic.net/) - Open Source easy to use single binay backup tool with encryption, dedupe, and supports object storage backends.
+
+* [UrBackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
+
+* [Zenko](https://www.zenko.io/) - Zenko is Scality’s Open Source Multi-Cloud Data Controller. Zenko lets you be in control of your data and leverage the efficiency of private and public clouds.
+
 
 ## S3 compatible file servers
 File servers that expose S3 compatible APIs
