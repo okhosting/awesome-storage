@@ -33,6 +33,10 @@ fault-tolerant, Geo-Redundant and highly available file system.
 
 * [Nextcloud](https://nextcloud.com/) - Nextcloud Files enables enterprises to take back control over their data, ensuring compliance, security and instant availability wherever their employees are.
 
+* [Pydio](https://pydio.com/) - Modern file management platform built according to your business needs and regulations, Pydio is open-source software deployed on your servers or wherever you decide.
+
+* [YouTransfer](http://www.youtransfer.io/) - YouTransfer is a simple but elegant self-hosted file transfer & sharing solution. It is an alternative to paid services like Dropbox and WeTransfer by offering similar features but without limitations, price plans and a lengthy privacy policy. You remain in control of your files. 
+
 ## Backups, replication, distribution
 Software that handles backup and high availability of information, independent from the storage itself.
 
