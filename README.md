@@ -16,6 +16,8 @@ Systems that expose a traditional file system interface with POSIX semantics.
 
 * [Gluster](https://www.gluster.org/) - Gluster is a scalable network filesystem. Using common off-the-shelf hardware, you can create large, distributed storage solutions for media streaming, data analysis, and other data- and bandwidth-intensive tasks. Gluster is free.
 
+* [HekaFS](http://pl.atyp.us/hekafs.org/) - CloudFS is a distributed fileysystem specifically intended to solve problems faced by a cloud provider when offering filesystem access “as a service” to cloud users (a.k.a. tenants).
+
 * [LizardFS](https://lizardfs.com/) - LizardFS Software Defined Storage is a distributed, parallel, scalable,
 fault-tolerant, Geo-Redundant and highly available file system.
 
