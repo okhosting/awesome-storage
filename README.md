@@ -72,4 +72,4 @@ File servers that expose S3 compatible APIs
 * [OpenIO](https://www.openio.io/) - OpenIO SDS is an open source object storage solution ideal for Big Data, HPC and AI. With its distributed grid architecture and unique self-healing technology, OpenIO scales easily without mandatory data rebalancing, while delivering consistent high performance. OpenIO is S3 compatible and can be deployed on-premise or cloud-hosted, on any hardware that you choose.
 
 ## Contributions welcome
-If you wish to contribute to this list, just fork, make tour changes and send me a pull request, I'l; be happy to review all of your suggestions :)
+If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
