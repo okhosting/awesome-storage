@@ -21,6 +21,8 @@ Systems that expose a traditional file system interface with POSIX semantics.
 * [LizardFS](https://lizardfs.com/) - LizardFS Software Defined Storage is a distributed, parallel, scalable,
 fault-tolerant, Geo-Redundant and highly available file system.
 
+* [SeaweedFS](https://github.com/chrislusf/seaweedfs) SeaweedFS is a simple and highly scalable distributed file system. SeaweedFS can transparently integrate with the cloud. With hot data on local cluster, and warm data on the cloud with O(1) access time, SeaweedFS can achieve both fast local access time and elastic cloud storage capacity. 
+
 ## File sharing
 
 * [Linshare](https://www.linshare.org/) - Linshare is an Open Source secure file sharing application intended to cover your business security and file transfer needs. If confidentiality and traceability are paramount for your business file transfers, then LinShare is your solution and better yet it's free ! We also offer high quality support services provided by our IT teams to suit your network at best.
