@@ -76,5 +76,12 @@ File servers that expose S3 compatible APIs
 
 * [OpenIO](https://www.openio.io/) - OpenIO SDS is an open source object storage solution ideal for Big Data, HPC and AI. With its distributed grid architecture and unique self-healing technology, OpenIO scales easily without mandatory data rebalancing, while delivering consistent high performance. OpenIO is S3 compatible and can be deployed on-premise or cloud-hosted, on any hardware that you choose.
 
+* [Openstack Swift](https://docs.openstack.org/swift/latest/) - Openstack Swift is an autonomous object storage system part of the OpenStack Project. Swift is feature complete, is designed to integrate well with the OpenStack ecosystem, and emphasizes configurability and extensibility. It supports the S3 API but also provides its own, more complete, API which already benefits from the work done by its substantial community.
+
+* [Garage](https://garagehq.deuxfleurs.fr/) - Garage is a hacker-oriented object storage software: it runs on every machine and through the regular Internet.
+The key enablers to achieve these properties are its consensus-less design and its Rust close-to-the-metal implementation.
+Garage is S3 compatible and honors the same consistency properties as Amazon S3.
+It can host static websites and stands as a backend for any S3-compatible applications like Nextcloud.
+
 ## Contributions welcome
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
