@@ -79,6 +79,6 @@ File servers that expose S3 compatible APIs
 ## Contributions welcome
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
 
-## Checkout also
+## Check out also
 
 * [Awesome Cyber Security](https://github.com/okhosting/awesome-cyber-security/) - A curated list of cyber security resources and tools. 
