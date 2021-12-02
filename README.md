@@ -76,6 +76,11 @@ File servers that expose S3 compatible APIs
 
 * [OpenIO](https://www.openio.io/) - OpenIO SDS is an open source object storage solution ideal for Big Data, HPC and AI. With its distributed grid architecture and unique self-healing technology, OpenIO scales easily without mandatory data rebalancing, while delivering consistent high performance. OpenIO is S3 compatible and can be deployed on-premise or cloud-hosted, on any hardware that you choose.
 
+## Cloud Sync Engine
+Starting in Windows 10, version 1709, Windows provides the cloud files API. This API consists of several native Win32 and WinRT APIs that formalize support for cloud sync engines, and handles tasks such as creating and managing placeholder files and directories. Users of this API are typically sync providers and to some extent, Windows applications.
+
+* [cfapiSync](https://github.com/styletronix/cfapiSync) - Working c# Example implementig a Cloud Sync Engine on Windows 10 / 11 based on the cloud files API. This is very early alpha.
+
 ## Contributions welcome
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
 
