@@ -76,6 +76,8 @@ File servers that expose S3 compatible APIs
 
 * [OpenIO](https://www.openio.io/) - OpenIO SDS is an open source object storage solution ideal for Big Data, HPC and AI. With its distributed grid architecture and unique self-healing technology, OpenIO scales easily without mandatory data rebalancing, while delivering consistent high performance. OpenIO is S3 compatible and can be deployed on-premise or cloud-hosted, on any hardware that you choose.
 
+* [lakeFS](https://github.com/treeverse/lakeFS/) - lakeFS is an open source tool that transforms your object storage into a Git-like repository. It enables you to manage your data lake the way you manage your code.
+
 ## Cloud Sync Engine
 Starting in Windows 10, version 1709, Windows provides the cloud files API. This API consists of several native Win32 and WinRT APIs that formalize support for cloud sync engines, and handles tasks such as creating and managing placeholder files and directories. Users of this API are typically sync providers and to some extent, Windows applications.
 
