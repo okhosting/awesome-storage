@@ -64,6 +64,7 @@ Software that handles backup and high availability of information, independent f
 
 * [Zenko](https://www.zenko.io/) - Zenko is Scality’s Open Source Multi-Cloud Data Controller. Zenko lets you be in control of your data and leverage the efficiency of private and public clouds.
 
+* [Backup Anything](https://github.com/gui-text/backup-anything) - Backup Anything are 100% open-source scripts for creating backup of databases and cloud buckets. Can be used on CI/CD or local.
 
 ## S3 compatible file servers
 File servers that expose S3 compatible APIs
