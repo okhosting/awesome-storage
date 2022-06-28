@@ -58,7 +58,7 @@ Software that handles backup and high availability of information, independent f
 
 * [ElkarBackup](https://www.elkarbackup.org/) - ElkarBackup is a free open-source backup solution based on RSync/RSnapshot.
 
-* [Restic](https://restic.net/) - Open Source easy to use single binay backup tool with encryption, dedupe, and supports object storage backends.
+* [Restic](https://restic.net/) - Open Source easy to use single binary backup tool with encryption, dedupe, and supports object storage backends.
 
 * [UrBackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
 
