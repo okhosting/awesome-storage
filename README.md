@@ -80,6 +80,8 @@ File servers that expose S3 compatible APIs
 
 * [lakeFS](https://github.com/treeverse/lakeFS/) - lakeFS is an open source tool that transforms your object storage into a Git-like repository. It enables you to manage your data lake the way you manage your code.
 
+* [SeaweedFS](https://github.com/chrislusf/seaweedfs) SeaweedFS is a simple and highly scalable distributed file system. SeaweedFS can transparently integrate with the cloud. With hot data on local cluster, and warm data on the cloud with O(1) access time, SeaweedFS can achieve both fast local access time and elastic cloud storage capacity. 
+
 ## Cloud Sync Engine
 Starting in Windows 10, version 1709, Windows provides the cloud files API. This API consists of several native Win32 and WinRT APIs that formalize support for cloud sync engines, and handles tasks such as creating and managing placeholder files and directories. Users of this API are typically sync providers and to some extent, Windows applications.
 
