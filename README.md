@@ -18,6 +18,8 @@ Systems that expose a traditional file system interface with POSIX semantics.
 
 * [HekaFS](http://pl.atyp.us/hekafs.org/) - CloudFS is a distributed fileysystem specifically intended to solve problems faced by a cloud provider when offering filesystem access “as a service” to cloud users (a.k.a. tenants).
 
+* [JuiceFS](https://juicefs.com/en/) - JuiceFS is an open-source cloud-native distributed file system with high performance, commonly utilized in AI & machine learning for training, inference, model distribution, as well as in big data processing and analysis.
+
 * [LizardFS](https://lizardfs.com/) - LizardFS Software Defined Storage is a distributed, parallel, scalable,
 fault-tolerant, Geo-Redundant and highly available file system.
 
