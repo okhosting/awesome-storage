@@ -52,6 +52,8 @@ Software that handles backup and high availability of information, independent f
 
 * [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance, enterprise-grade system for backing up Linux, Windows and macOS PCs and laptops to a server's disk. BackupPC is highly configurable and easy to install and maintain.
 
+* [backy](https://github.com/vdbsh/backy) - Tiny multiprocessing utility for file backups.
+
 * [Bacula](https://www.bacula.org/) - Bacula is a set of Open Source, computer programs that permit you (or the system administrator) to manage backup, recovery, and verification of computer data across a network of computers of different kinds.
 
 * [Bareos](https://www.bareos.org/en/) - Bareos is a 100% open source fork of the backup project from bacula.org. The fork is in development since late 2010, it has a lot of new features.
