@@ -56,9 +56,15 @@ Software that handles backup and high availability of information, independent f
 
 * [Bareos](https://www.bareos.org/en/) - Bareos is a 100% open source fork of the backup project from bacula.org. The fork is in development since late 2010, it has a lot of new features.
 
+* [Borg](https://github.com/borgbackup/borg) - BorgBackup (short: Borg) is a deduplicating backup program. Optionally, it supports compression and authenticated encryption.
+
+* [Duplicacy](https://github.com/gilbertchen/duplicacy) - Duplicacy is a new generation cross-platform cloud backup tool based on the idea of Lock-Free Deduplication.
+
 * [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online. For Windows, macOS and Linux.
 
 * [ElkarBackup](https://www.elkarbackup.org/) - ElkarBackup is a free open-source backup solution based on RSync/RSnapshot.
+
+* [Kopia](https://github.com/kopia/kopia) - Kopia is a simple, cross-platform tool for managing encrypted backups in the cloud. It provides fast, incremental backups, secure, client-side end-to-end encryption, compression and data deduplication.
 
 * [Restic](https://restic.net/) - Open Source easy to use single binay backup tool with encryption, dedupe, and supports object storage backends.
 
