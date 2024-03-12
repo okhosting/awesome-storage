@@ -18,6 +18,8 @@ Systems that expose a traditional file system interface with POSIX semantics.
 
 * [HekaFS](http://pl.atyp.us/hekafs.org/) - CloudFS is a distributed fileysystem specifically intended to solve problems faced by a cloud provider when offering filesystem access “as a service” to cloud users (a.k.a. tenants).
 
+* [JuiceFS](https://juicefs.com/en/) - JuiceFS is an open-source cloud-native distributed file system with high performance, commonly utilized in AI & machine learning for training, inference, model distribution, as well as in big data processing and analysis.
+
 * [LizardFS](https://lizardfs.com/) - LizardFS Software Defined Storage is a distributed, parallel, scalable,
 fault-tolerant, Geo-Redundant and highly available file system.
 
@@ -54,9 +56,15 @@ Software that handles backup and high availability of information, independent f
 
 * [Bareos](https://www.bareos.org/en/) - Bareos is a 100% open source fork of the backup project from bacula.org. The fork is in development since late 2010, it has a lot of new features.
 
+* [Borg](https://github.com/borgbackup/borg) - BorgBackup (short: Borg) is a deduplicating backup program. Optionally, it supports compression and authenticated encryption.
+
+* [Duplicacy](https://github.com/gilbertchen/duplicacy) - Duplicacy is a new generation cross-platform cloud backup tool based on the idea of Lock-Free Deduplication.
+
 * [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online. For Windows, macOS and Linux.
 
 * [ElkarBackup](https://www.elkarbackup.org/) - ElkarBackup is a free open-source backup solution based on RSync/RSnapshot.
+
+* [Kopia](https://github.com/kopia/kopia) - Kopia is a simple, cross-platform tool for managing encrypted backups in the cloud. It provides fast, incremental backups, secure, client-side end-to-end encryption, compression and data deduplication.
 
 * [Restic](https://restic.net/) - Open Source easy to use single binary backup tool with encryption, dedupe, and supports object storage backends.
 
@@ -64,6 +72,7 @@ Software that handles backup and high availability of information, independent f
 
 * [Zenko](https://www.zenko.io/) - Zenko is Scality’s Open Source Multi-Cloud Data Controller. Zenko lets you be in control of your data and leverage the efficiency of private and public clouds.
 
+* [Backup Anything](https://github.com/gui-text/backup-anything) - Backup Anything are 100% open-source scripts for creating backup of databases and cloud buckets. Can be used on CI/CD or local.
 
 ## S3 compatible file servers
 File servers that expose S3 compatible APIs
@@ -77,6 +86,13 @@ File servers that expose S3 compatible APIs
 * [RIAK S2](https://riak.com/products/riak-s2/) - Riak® S2 is a highly available, scalable, easy-to-operate object storage software solution that’s optimized for holding videos, images, and other files. It provides simple but powerful storage for large objects built for private, public, and hybrid clouds.
 
 * [OpenIO](https://www.openio.io/) - OpenIO SDS is an open source object storage solution ideal for Big Data, HPC and AI. With its distributed grid architecture and unique self-healing technology, OpenIO scales easily without mandatory data rebalancing, while delivering consistent high performance. OpenIO is S3 compatible and can be deployed on-premise or cloud-hosted, on any hardware that you choose.
+
+* [Openstack Swift](https://docs.openstack.org/swift/latest/) - Openstack Swift is an autonomous object storage system part of the OpenStack Project. Swift is feature complete, is designed to integrate well with the OpenStack ecosystem, and emphasizes configurability and extensibility. It supports the S3 API but also provides its own, more complete, API which already benefits from the work done by its substantial community.
+
+* [Garage](https://garagehq.deuxfleurs.fr/) - Garage is a hacker-oriented object storage software: it runs on every machine and through the regular Internet.
+The key enablers to achieve these properties are its consensus-less design and its Rust close-to-the-metal implementation.
+Garage is S3 compatible and honors the same consistency properties as Amazon S3.
+It can host static websites and stands as a backend for any S3-compatible applications like Nextcloud.
 
 * [lakeFS](https://github.com/treeverse/lakeFS/) - lakeFS is an open source tool that transforms your object storage into a Git-like repository. It enables you to manage your data lake the way you manage your code.
 
