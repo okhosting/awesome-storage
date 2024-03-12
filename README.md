@@ -66,7 +66,7 @@ Software that handles backup and high availability of information, independent f
 
 * [Kopia](https://github.com/kopia/kopia) - Kopia is a simple, cross-platform tool for managing encrypted backups in the cloud. It provides fast, incremental backups, secure, client-side end-to-end encryption, compression and data deduplication.
 
-* [Restic](https://restic.net/) - Open Source easy to use single binay backup tool with encryption, dedupe, and supports object storage backends.
+* [Restic](https://restic.net/) - Open Source easy to use single binary backup tool with encryption, dedupe, and supports object storage backends.
 
 * [UrBackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
 
