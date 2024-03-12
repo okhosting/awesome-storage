@@ -18,10 +18,14 @@ Systems that expose a traditional file system interface with POSIX semantics.
 
 * [HekaFS](http://pl.atyp.us/hekafs.org/) - CloudFS is a distributed fileysystem specifically intended to solve problems faced by a cloud provider when offering filesystem access “as a service” to cloud users (a.k.a. tenants).
 
+* [JuiceFS](https://juicefs.com/en/) - JuiceFS is an open-source cloud-native distributed file system with high performance, commonly utilized in AI & machine learning for training, inference, model distribution, as well as in big data processing and analysis.
+
 * [LizardFS](https://lizardfs.com/) - LizardFS Software Defined Storage is a distributed, parallel, scalable,
 fault-tolerant, Geo-Redundant and highly available file system.
 
 * [SeaweedFS](https://github.com/chrislusf/seaweedfs) SeaweedFS is a simple and highly scalable distributed file system. SeaweedFS can transparently integrate with the cloud. With hot data on local cluster, and warm data on the cloud with O(1) access time, SeaweedFS can achieve both fast local access time and elastic cloud storage capacity. 
+
+* [Zenko](https://github.com/scality/Zenko) Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
 
 ## File sharing
 
@@ -83,5 +87,16 @@ The key enablers to achieve these properties are its consensus-less design and i
 Garage is S3 compatible and honors the same consistency properties as Amazon S3.
 It can host static websites and stands as a backend for any S3-compatible applications like Nextcloud.
 
+* [lakeFS](https://github.com/treeverse/lakeFS/) - lakeFS is an open source tool that transforms your object storage into a Git-like repository. It enables you to manage your data lake the way you manage your code.
+
+## Cloud Sync Engine
+Starting in Windows 10, version 1709, Windows provides the cloud files API. This API consists of several native Win32 and WinRT APIs that formalize support for cloud sync engines, and handles tasks such as creating and managing placeholder files and directories. Users of this API are typically sync providers and to some extent, Windows applications.
+
+* [cfapiSync](https://github.com/styletronix/cfapiSync) - Working c# Example implementig a Cloud Sync Engine on Windows 10 / 11 based on the cloud files API. This is very early alpha.
+
 ## Contributions welcome
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
+
+## Check out also
+
+* [Awesome Cyber Security](https://github.com/okhosting/awesome-cyber-security/) - A curated list of cyber security resources and tools. 
