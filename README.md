@@ -27,6 +27,10 @@ fault-tolerant, Geo-Redundant and highly available file system.
 
 * [Zenko](https://github.com/scality/Zenko) Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
 
+* [CubeFS](https://github.com/cubefs/cubefs) CubeFS is a new generation cloud-native storage that supports access protocols such as S3, HDFS, and POSIX.
+
+* [MooseFS](https://github.com/moosefs/moosefs) MooseFS is a Petabyte Open Source Network Distributed File System. It is easy to deploy and maintain, highly reliable, fault tolerant, highly performing, easily scalable and POSIX compliant.
+
 ## File sharing
 
 * [Linshare](https://www.linshare.org/) - Linshare is an Open Source secure file sharing application intended to cover your business security and file transfer needs. If confidentiality and traceability are paramount for your business file transfers, then LinShare is your solution and better yet it's free ! We also offer high quality support services provided by our IT teams to suit your network at best.
@@ -98,7 +102,9 @@ It can host static websites and stands as a backend for any S3-compatible applic
 
 * [lakeFS](https://github.com/treeverse/lakeFS/) - lakeFS is an open source tool that transforms your object storage into a Git-like repository. It enables you to manage your data lake the way you manage your code.
 
-* [SeaweedFS](https://github.com/chrislusf/seaweedfs) SeaweedFS is a simple and highly scalable distributed file system. SeaweedFS can transparently integrate with the cloud. With hot data on local cluster, and warm data on the cloud with O(1) access time, SeaweedFS can achieve both fast local access time and elastic cloud storage capacity. 
+* [SeaweedFS](https://github.com/chrislusf/seaweedfs) SeaweedFS is a simple and highly scalable distributed file system. SeaweedFS can transparently integrate with the cloud. With hot data on local cluster, and warm data on the cloud with O(1) access time, SeaweedFS can achieve both fast local access time and elastic cloud storage capacity.
+
+* [CubeFS](https://github.com/cubefs/cubefs) CubeFS is a new generation cloud-native storage that supports access protocols such as S3, HDFS, and POSIX.
 
 ## Cloud Sync Engine
 Starting in Windows 10, version 1709, Windows provides the cloud files API. This API consists of several native Win32 and WinRT APIs that formalize support for cloud sync engines, and handles tasks such as creating and managing placeholder files and directories. Users of this API are typically sync providers and to some extent, Windows applications.
